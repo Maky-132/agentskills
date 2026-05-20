@@ -332,6 +332,15 @@ export const clients = [
     sourceCodeUrl: "https://github.com/evalstate/fast-agent",
   },
   {
+    name: "bub",
+    description: "Bub is a lightweight, hook-first Python framework for channel-native agents that live alongside people.",
+    url: "https://bub.build/",
+    lightSrc: "/images/logos/bub/bub-light.svg",
+    darkSrc: "/images/logos/bub/bub-dark.svg",
+    instructionsUrl: "https://bub.build/docs/build/skills/",
+    sourceCodeUrl: "https://github.com/bubbuild/bub",
+  },
+  {
     name: "Tabnine",
     description: "Tabnine is an AI engineering platform that combines code assistants, agentic workflows, and enterprise context to help development teams build, review, and maintain software with context-aware AI—while keeping code private, secure, and fully under your control.",
     url: "https://www.tabnine.com/",
